@@ -1,0 +1,10 @@
+# 过滤 Obsidian 的本地缓存、插件及工作区配置
+.obsidian/
+
+# 如果你用了 Obsidian 的自动保存/日记插件，也可以过滤临时文件（可选）
+*.bak
+.trash/
+
+# 过滤操作系统自带的隐藏文件
+.DS_Store
+Thumbs.db
